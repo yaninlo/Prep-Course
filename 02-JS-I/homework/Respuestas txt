@@ -1,0 +1,9 @@
+Variable: es cuando le damos un valor a algo y lo usamos cuando lo necesitemos. Usamos la palabra Var. Para darle un valor le colocamos el signo =. También podemos declarar una variable usando la palabra Const esta variable no va a poder cambiar. console.log() lo usamos para imprimir en la consola todo lo que tengamos dentro de los parentesis.
+String: esto es una seguidilla de texto que ponemos entre comillas.
+Booleans: Estos nos indican si es verdadero o falso.
+Funciones y argumentos: Siempre comenzamos a escribirla con la palabra Funtion luego le agregamos el nombre que queremos que lleve colocamos parentesis () y luego van los corchetes dentro de estos corchetes va el codigo que queremos ejecutar.
+La declaración return nos devolverá todo lo que está dentro de ella y va a detener todo lo que está haciendo.
+Un scoope es el alcance que tiene una variable es decir que si nosotros no lo declaramos no lo va a reconocer.
+If la usaremos para saber si algo es true (verdadero) o false (falso), si es falso se va a detener y va a ignorar el código.
+ 
+

@@ -231,7 +231,7 @@ describe('agregarSimboloExclamacion(str)', function() {
   });
 });
 
-describe('combinarNombres(firstName, lastName)', function() {
+describeobtenerAreaRectangulo('combinarNombres(firstName, lastName)', function() {
   it('Deberia devolver los strings combinados con un espacio en el medio', function() {
     expect(combinarNombres('hello', 'world')).toBe('hello world');
     expect(combinarNombres('Soy', 'Henry')).toBe('Soy Henry');

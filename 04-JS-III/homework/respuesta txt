@@ -1,0 +1,8 @@
+Arrays son basicamente arreglos que podemos invocar cada vez que los necesitemos. Para declararlos vamos a declarar una variable y establecerla con corchetes. Ejemplo: var array[].
+Le podemos agregar tantas cadenas, números o booleanos como deseemos(siempre van a ir separadas con coma).
+Podemos acceder a estos elementos cuando lo necesitemos mediante distintos metodos, uno de estos es .length esto nos permite contar los elementos de una matriz y los va a devolver . Es muy importante saber que los elementos de una matriz empiezan a contar desde el 0, estos se llama posición  y cuando quisieramos acceder a estos elemento los invocamos por su posición.
+Otros metodos es .push() este metodo agrega un elemento al final de la matriz aumentando su longitud en 1 y lo devuelve.
+.pop() elimina el último elemento de la matriz disminuyendo su longitud en 1, y nos devuelve el elemento reventado.
+.unshift() agrega el primer elemento de una matriz.
+.shift() elimina el primer elemento de una matriz.
+

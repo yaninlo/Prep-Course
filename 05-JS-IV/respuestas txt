@@ -1,0 +1,9 @@
+Objetos: Los objetos son contenedores  similares a las matrices,  contienen mucha información sobre una solo cosa,los objetos se llaman usando llaves ({}).
+Los objetos usan un concepto llamado pares de clave valor, la clave es el objeto y el valor es el valor que queremos guardar en esa clave. Puede haber muchos pares de clave valor dentro de un objeto siempre deben de estar separados por comas, Las claves pueden tener el mismo valor pero no el mismo nombre. Los valores pueden ser cualquier tipo de dato de JS.
+Podemos acceder a los objetos llamandolos por su nombre y la clave hay 2 formas diferentes con corchetes o con punto.
+Con los puntos llamamos al objeto, un punto y el nombre de la clave. Con los corchetes debemos usar una cadena o números, o una variable que apunte a una cadena o número. Se puede llamar a la clave usando comillas.
+Casi siempre los corchetes se usan con variables.
+Podemos asignar valores cuando creamos el objeto con notación de números o con corchetes.
+Si queremos eliminar propiedades usamos la palabra clave DELETE.
+Metodos: Los metodos son funciones guardadas en un objeto. Podemos establecer una clave para un nombre y el valor para una función, llamaremos a este metodo con notación de puntos y parentesis finales
+Bucles for...in: For in loop es una sintaxis ligeramente diferente a FOR. Comienza igual pero entre parentesis declaramos una variable la palabra clave in y el nombre del objeto. Esto recorrera cada clave del objeto y finalizara cuando se haya iterado todas las claves. Podemos usar nuestra clave y la notacion de corchetes  en for para acceder al valor asociado a esa clave.
